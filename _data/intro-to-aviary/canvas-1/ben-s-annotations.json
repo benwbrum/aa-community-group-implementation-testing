@@ -1,0 +1,188 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations.json",
+  "type": "AnnotationPage",
+  "label": "Ben's Annotations",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Splash screen",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://public.aviaryplatform.com/iiif/tb0xp6v94p/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.01,1.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Problem statement",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://public.aviaryplatform.com/iiif/tb0xp6v94p/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.1,19.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Simile",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://public.aviaryplatform.com/iiif/tb0xp6v94p/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.9,29.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Seagull",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://public.aviaryplatform.com/iiif/tb0xp6v94p/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29.9,30.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Seagull",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://public.aviaryplatform.com/iiif/tb0xp6v94p/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.1,68.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas/ben-s-annotations-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Seagull",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/aa-community-group-implementation-testing/intro-to-aviary/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://public.aviaryplatform.com/iiif/tb0xp6v94p/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "71.15,80.5"
+        }
+      }
+    }
+  ]
+}
